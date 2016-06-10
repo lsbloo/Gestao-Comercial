@@ -1,2 +1,8 @@
 # Gestao-Comercial
 Sistema de gestao comercial
+
+# RODRIGO , O PETSHOP É O MODULO INICIAL COLOCA OS OUTROS DENTRO DE UMA PASTA PETSHOP 
+# E O CODIGO VAI RODAR
+# PORQUE IMPORTEI O SYS.
+# sys.path.append("petshop")
+# COLOCA ASSIM QUE PEGA
